@@ -36,7 +36,7 @@
     "jshint": "^2.9.1",
     "jshint-stylish": "^2.1.0",
     "mocha": "^5.2.0",
-    "nock": "^10.0.3"
+    "nock": "^13.0.7"
   },
   "dependencies": {
     "@log4js-node/log4js-api": "^1.0.2",
